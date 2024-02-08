@@ -56,14 +56,14 @@
 		</div>
 		<div class="col-12 col-sm-6  m-0 p-0 d-flex align-items-center">
 			<div class="m-1 p-1">
-				<img src="http://tpsnederland.nl/wp-content/uploads/example-picture1.jpg" class="img-fluid rounded" alt="Responsive image">
+				<img src="./wp-content/uploads/example-picture1.jpg" class="img-fluid rounded" alt="Responsive image">
 			</div>
 		</div>
 		
 		<div class="col-12"><hr></div>
 		<div class="col-12 col-sm-6  m-0 p-0 d-flex align-items-center">
 			<div class="m-1 p-1">
-				<img src="http://tpsnederland.nl/wp-content/uploads/example-picture2.jpg" class="img-fluid rounded" alt="Responsive image">
+				<img src="./wp-content/uploads/example-picture2.jpg" class="img-fluid rounded" alt="Responsive image">
 			</div>
 		</div>
 		<div class="col-12 col-sm-6  m-0 p-0 d-flex align-items-center">
@@ -134,13 +134,13 @@
 		</div>										
 		<div class="col-12 col-sm-6  m-0 p-0 d-flex align-items-center">
 			<div class="m-1 p-1">
-				<img src="http://tpsnederland.nl/wp-content/uploads/example-picture3.jpg" class="img-fluid rounded" alt="Responsive image">
+				<img src="./wp-content/uploads/example-picture3.jpg" class="img-fluid rounded" alt="Responsive image">
 			</div>
 		</div>
 		<div class="col-12"><hr></div>
 		<div class="col-12 col-sm-6  m-0 p-0 d-flex align-items-center">
 			<div class="m-1 p-1">
-				<img src="http://tpsnederland.nl/wp-content/uploads/example-picture4.jpg" class="img-fluid rounded" alt="Responsive image">
+				<img src="./wp-content/uploads/example-picture4.jpg" class="img-fluid rounded" alt="Responsive image">
 			</div>
 		</div>
 		<div class="col-12 col-sm-6  m-0 p-0 d-flex align-items-center">
