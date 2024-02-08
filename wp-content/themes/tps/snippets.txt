@@ -1,0 +1,20 @@
+				<?php
+					wp_nav_menu([
+						'menu'		=>	'primary',
+						'theme_location'		=>	'top-menu',
+						'container'		=>	'div',
+						'container_id'		=>	'bs4navbar',
+						'container_class'		=>	'collapse navbar-collapse',
+						'menu_id'		=>	'main-menu',
+						'menu_class'		=>	'navbar-nav ml-auto',
+						'depth'		=>	2,
+						'fallback_cb'		=>	'bs4navwalker::fallback',
+						'walker'		=>	new bs4navwalker()
+					]);
+				?>
+
+
+
+if ( function_exists( 'the_custom_logo' ) ) {
+ the_custom_logo();
+}				

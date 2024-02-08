@@ -1,0 +1,201 @@
+# Translation of Plugins - Duplicate Page - Development (trunk) in Dutch
+# This file is distributed under the same license as the Plugins - Duplicate Page - Development (trunk) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2021-11-30 12:46:46+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: nl\n"
+"Project-Id-Version: Plugins - Duplicate Page - Development (trunk)\n"
+
+#: inc/admin-settings.php:85
+msgid "Save Changes"
+msgstr "Wijzigingen opslaan"
+
+#: inc/admin-settings.php:13
+msgid "<div class=\"saving-txt\"><strong>Saving Please wait...</strong></div>"
+msgstr "<div class=\"saving-txt\"><strong>Opslaan Even geduld...</strong></div>"
+
+#: duplicatepage.php:312
+msgid "Never"
+msgstr "Nooit"
+
+#: duplicatepage.php:312
+msgid "Not interested"
+msgstr "Niet geïnteresseerd"
+
+#: duplicatepage.php:312
+msgid "Rate Us"
+msgstr "Waardeer ons"
+
+#: duplicatepage.php:312
+msgid "Rate us now"
+msgstr "Beoordeel ons nu"
+
+#: duplicatepage.php:312
+msgid "Later"
+msgstr "Later"
+
+#: duplicatepage.php:312
+msgid "Remind me later"
+msgstr "Herinner me er later aan"
+
+#: duplicatepage.php:312
+msgid "We love and care about you. Our team is putting maximum efforts to provide you the best functionalities. It would be highly appreciable if you could spend a couple of seconds to give a Nice Review to the plugin to appreciate our efforts. So we can work hard to provide new features regularly :)"
+msgstr "We houden van je en geven om je. Ons team doet er maximale inspanningen voor om je de beste functionaliteiten te bieden. Het zou zeer merkbaar zijn als je een paar seconden zou kunnen besteden om een Nice Review aan de plugin te geven om onze inspanningen te waarderen. Zodat we hard kunnen werken om regelmatig nieuwe functies te bieden :)"
+
+#: duplicatepage.php:312
+msgid "close"
+msgstr "sluiten"
+
+#: duplicatepage.php:203
+msgid "Security check issue, Please try again."
+msgstr "Probleem met de veiligheidscontrole, probeer het opnieuw."
+
+#: duplicatepage.php:200
+msgid "Error! Post creation failed, could not find original post: "
+msgstr "Fout! Het maken van berichten is mislukt, kon het oorspronkelijke bericht niet vinden: "
+
+#: duplicatepage.php:125
+msgid "No post to duplicate has been supplied!"
+msgstr "Er is geen bericht om te dupliceren geleverd!"
+
+#: duplicatepage.php:77
+msgid "Donate Now"
+msgstr "Doneer nu"
+
+#: inc/admin-settings.php:49
+msgid "All Editors"
+msgstr "Alle editors"
+
+#: duplicatepage.php:215 duplicatepage.php:231 duplicatepage.php:255
+msgid "Duplicate this as "
+msgstr "Dupliceer dit als "
+
+#: inc/admin-settings.php:53
+msgid "Please select which editor you are using.<strong>Default: </strong> Classic Editor"
+msgstr "Selecteer welke editor je gebruikt. <strong>Standaard: </strong> klassieke editor"
+
+#: inc/admin-settings.php:51
+msgid "Gutenberg Editor"
+msgstr "Gutenberg Editor"
+
+#: inc/admin-settings.php:50
+msgid "Classic Editor"
+msgstr "Klassieke Editor"
+
+#: inc/admin-settings.php:46
+msgid "Choose Editor"
+msgstr "Kies editor"
+
+#: duplicatepage.php:282
+msgid "Duplicate This as "
+msgstr "Dupliceer dit als"
+
+#: inc/admin-settings.php:63
+msgid "Pending"
+msgstr "In wachtrij"
+
+#: inc/admin-settings.php:62
+msgid "Private"
+msgstr "Privé"
+
+#: inc/admin-settings.php:61
+msgid "Publish"
+msgstr "Publiceren"
+
+#: inc/admin-settings.php:60
+msgid "Draft"
+msgstr "Concept"
+
+#. Author URI of the plugin
+msgid "https://profiles.wordpress.org/mndpsingh287/"
+msgstr "https://profiles.wordpress.org/mndpsingh287/"
+
+#. Author of the plugin
+msgid "mndpsingh287"
+msgstr "mndpsingh287"
+
+#. Description of the plugin
+msgid "Duplicate Posts, Pages and Custom Posts using single click."
+msgstr "Dupliceer berichten, pagina's en aangepaste berichten met een enkele klik."
+
+#. Plugin URI of the plugin
+msgid "https://wordpress.org/plugins/duplicate-page/"
+msgstr "https://wordpress.org/plugins/duplicate-page/"
+
+#: duplicatepage.php:215 duplicatepage.php:231 duplicatepage.php:254
+msgid "Duplicate This"
+msgstr "Dupliceer dit"
+
+#. Plugin Name of the plugin
+#: duplicatepage.php:90 duplicatepage.php:312
+msgid "Duplicate Page"
+msgstr "Duplicate Page"
+
+#: duplicatepage.php:77
+msgid "Donate"
+msgstr "Doneer"
+
+#: duplicatepage.php:76
+msgid "Settings"
+msgstr "Instellingen"
+
+#: inc/admin-settings.php:81
+msgid "Add a suffix for duplicate or clone post as Copy, Clone etc. It will show after title."
+msgstr "Voeg een suffix voor duplicaat of dupliceer het bericht als kopie etc. Het zal worden getoond na de titel."
+
+#: inc/admin-settings.php:78
+msgid "Duplicate Post Suffix"
+msgstr "Dupliceer bericht suffix"
+
+#: inc/admin-settings.php:74
+msgid "Please select any post redirection, redirect you to selected after click on duplicate this link.<strong>Default: </strong>To current list."
+msgstr "Selecteer een bericht omleiding, leid je om naar geselecteerd na klik op dupliceren van deze link. <strong>Standaard: </strong> Naar de huidige lijst."
+
+#: inc/admin-settings.php:72
+msgid "To Duplicate Edit Screen"
+msgstr "Om het scherm in bewerking te dupliceren"
+
+#: inc/admin-settings.php:71
+msgid "To All Posts List"
+msgstr "Naar alle bericht lijsten"
+
+#: inc/admin-settings.php:69
+msgid "Redirect to after click on <strong>Duplicate This Link</strong>"
+msgstr "Doorverwijzen naar na het klikken op <strong>Dupliceer deze link</strong>"
+
+#: inc/admin-settings.php:65
+msgid "Please select any post status you want to assign for duplicate post.<strong>Default: </strong> Draft."
+msgstr "Selecteer een berichtstatus die je wil toewijzen voor een dubbel bericht.<strong>Standaard: </strong> concept."
+
+#: inc/admin-settings.php:57
+msgid "Duplicate Post Status"
+msgstr "Status dupliceren bericht"
+
+#: inc/admin-settings.php:34
+msgid ""
+"<div class=\"error settings-error notice is-dismissible\" id=\"setting-error-settings_updated\"> \n"
+"  <p><strong>Settings not saved.</strong></p><button class=\"notice-dismiss button-custom-dismiss\" type=\"button\"><span class=\"screen-reader-text\">Dismiss this notice</span></button></div>"
+msgstr ""
+"<div class=\"error settings-error notice is-dismissible\" id=\"setting-error-settings_updated\"> \n"
+" <p><strong>Instellingen niet opgeslagen.</strong></p><button class=\"notice-dismiss button-custom-dismiss\" type=\"button\"><span class=\"screen-reader-text\">Deze kennisgeving afwijzen</span></button></div>"
+
+#: inc/admin-settings.php:31
+msgid ""
+"<div class=\"updated settings-error notice is-dismissible\" id=\"setting-error-settings_updated\"> \n"
+"    <p><strong>Settings saved.</strong></p><button class=\"notice-dismiss button-custom-dismiss\" type=\"button\"><span class=\"screen-reader-text\">Dismiss this notice</span></button></div>"
+msgstr ""
+"<div class=\"updated settings-error notice is-dismissible\" id=\"setting-error-settings_updated\"> \n"
+"  <p><strong>Instellingen opgeslagen.</strong></p><button class=\"notice-dismiss button-custom-dismiss\" type=\"button\"><span class=\"screen-reader-text\">Deze kennisgeving afwijzen</span></button></div>"
+
+#: inc/admin-settings.php:9
+msgid "Buy PRO"
+msgstr "Koop PRO"
+
+#: inc/admin-settings.php:9
+msgid "Duplicate Page Settings "
+msgstr "Duplicate Page instellingen "

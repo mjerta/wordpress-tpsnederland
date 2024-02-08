@@ -1,0 +1,196 @@
+/*
+Theme Name : TPS
+Author: Maarten Postma
+
+*/
+/*main styles*/
+*{
+	margin:0;
+	padding:0;
+}
+
+html {
+  height:100%;
+  margin:0px!important;
+}
+
+body{
+	height:100%;
+	background-color:transparent;
+	font-family: roboto, sans-serif;
+	opacity: 1;
+	transition: 0.7s;
+}
+
+.fade{
+	opacity: 0;
+	transition: none;
+}
+
+p{
+
+	font-size: 1.2rem;
+}
+
+a{
+	color:inherit;
+}
+a:hover{
+	color:unset;
+	text-decoration: none;
+}
+li{
+	list-style: none;	
+}
+/*spacing for singlepage content*/
+.singlepage p{
+	padding: 0.25rem;
+}
+
+/*single page media querie for text */
+@media screen and (max-width: 767.98px){
+	.singlepage p{
+		padding:1rem;
+	}
+}
+/*header section*/
+header{
+	height:auto;
+	z-index:999;
+	background:white;
+	border-bottom:1px solid;
+}
+.card-body td{
+	padding: 0.3rem;
+}
+
+.custom-logo{
+	opacity: 0.8;
+}
+
+.custom-logo:hover{
+	opacity: 1;
+}
+
+/*frontpage section */
+.container-below{
+
+	display: none;
+}
+
+.main-background{
+	background-image:url("http://tpsnederland.nl/wp-content/uploads/main-background.jpg");
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: center;
+	position: absolute;
+	opacity: 1;
+	transition: 1s opacity;
+}
+.main-background.fade{
+    opacity: 0;
+    transition: none;	
+}
+/*button section*/
+.btn{
+	
+}
+
+/*footer section*/
+.page-footer{
+	height:auto;
+	position:relative;
+	bottom:0;
+}
+
+.footer-list  a, #footer-list2, .footer-copyright a{
+	opacity: 0.8;
+}
+.footer-list a:hover, .footer-copyright a:hover{
+	opacity: 1;
+}
+
+.footer-copyright{
+	line-height: 3em;
+}
+
+
+
+/*this is some css for the contact form */
+#contact-form-45{
+	width:100%;
+	margin:0 auto;
+}
+
+@media screen and (max-width:767.98px){
+	#contact-form-45{
+		padding: 1rem;
+	}
+}
+
+.form-control{
+	width:100%;
+}
+.noresize{
+	resize:none;
+}
+
+.top, .top:link{
+	color: #333;
+	position: fixed;
+	z-index: 999;
+	bottom: 20px;
+	right: 20px;
+	width: 40px;
+	height: 40px;
+	font-size: 24px;
+	font-weight: 700;
+	line-height: 40px;
+	text-align: center;
+	text-transform: uppercase;
+	opacity: .9;
+	border:none;
+
+}
+
+.top:hover{
+	opacity: 1;
+	text-decoration: none;
+}
+
+
+
+
+/* some extra color scheme classes*/
+.color-scheme-1{
+	background-color:#F2F2F2;
+}
+.color-scheme-2{
+	background-color:#A6A6A6;
+}
+.color-scheme-3{
+	background-color:#595959;
+}
+.color-scheme-4{
+	background-color:#262626;
+}
+.color-scheme-5{
+	background-color:#0D0D0D;
+}
+
+.shadow-container{
+	box-shadow: -5px	
+}
+
+.blur-image{
+	filter: blur(2px);
+	-webkit-filter: blur(2px);
+}
+
+
+@media screen and (max-width:992px){
+	.container{
+		max-width:100%;
+	}
+	
+}
